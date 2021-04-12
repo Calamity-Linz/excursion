@@ -1,12 +1,13 @@
 html {
     font-family: verdana;
     font-weight: normal;
+    text-align: center;
+    background-color: black;
 }
 
 h1 {
     font-size: 50px;
     color: white;
-    text-align: center;
 }
 
 a {
